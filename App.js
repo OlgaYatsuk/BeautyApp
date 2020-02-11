@@ -6,6 +6,8 @@ import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
 import {RegistrationScreen} from './src/flows/Registration';
 import {HomeScreen} from './src/flows/Home';
+import {BookingScreen} from './src/flows/Booking';
+import {commonStyles} from './src/framework/ui/styles';
 
 const Stack = createStackNavigator();
 
@@ -26,6 +28,14 @@ const App: () => React$Node = () => {
             component={HomeScreen}
             options={{
               headerShown: false,
+            }}
+          />
+          <Stack.Screen
+            name="Booking"
+            component={BookingScreen}
+            options={{
+              headerStyle: commonStyles.headerDark,
+              title: false,
             }}
           />
         </Stack.Navigator>

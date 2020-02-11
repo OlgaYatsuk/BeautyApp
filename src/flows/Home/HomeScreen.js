@@ -9,7 +9,7 @@ import {LastBookedItem} from './components/LastBookedItem/LastBookedItem';
 import {lastBooked} from './lastBooked';
 import {styles} from './styles';
 
-export const HomeScreen = () => {
+export const HomeScreen = ({navigation: {navigate}}) => {
   const {searchValue, handleSearchChange} = useSearch();
 
   return (
@@ -27,7 +27,7 @@ export const HomeScreen = () => {
         <FlatList
           data={lastBooked}
           contentContainerStyle={styles.listBottomPadding}
-          renderItem={(item, index) => <LastBookedItem item={item.item} index={index} />}
+          renderItem={(item, index) => <LastBookedItem item={item.item} navigate={navigate} index={index} />}
         />
       </ScrollView>
     </SafeAreaView>

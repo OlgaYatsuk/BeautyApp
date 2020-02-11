@@ -3,12 +3,14 @@ import {View, Text, TouchableOpacity, Image} from 'react-native';
 import {styles} from './styles';
 import {fonts} from '../../../../framework/ui/fonts';
 
-export const LastBookedItem = ({item, index}) => {
+export const LastBookedItem = ({item, index, navigate}) => {
   return (
     <View index={index} style={styles.lastBookedItem}>
       <Text style={fonts.smallTitle}>{item.specialist}</Text>
       <Text style={fonts.text}>{item.procedure}</Text>
-      <TouchableOpacity style={styles.imageWrapper}>
+      <TouchableOpacity
+        onPress={() => navigate('Booking')}
+        style={styles.imageWrapper}>
         <View style={styles.lastBookedItemSide}>
           <Image style={[styles.image, styles.bigImage]} />
         </View>

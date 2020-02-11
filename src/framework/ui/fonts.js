@@ -44,4 +44,12 @@ export const fonts = {
   text: {
     fontSize: 16,
   },
+  textWhite: {
+    color: colors.white,
+  },
+  textHalfOpacity: {
+    color: colors.white,
+    opacity: 0.6,
+    lineHeight: 20,
+  },
 };
