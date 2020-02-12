@@ -43,12 +43,14 @@ export const BookingScreen = () => {
               text: 'I need few minutes to think',
               onPress: () => {
                 setConfirmationWindowVisibility(false);
+                setCalendarVisibility(false);
               },
             },
             {
               text: "Yeees, I can't wait",
               onPress: () => {
                 setConfirmationWindowVisibility(false);
+                setCalendarVisibility(false);
               },
             },
           ],
@@ -68,6 +70,7 @@ export const BookingScreen = () => {
         <Button
           type={'buttonSmall'}
           title={'Confirm'}
+          disabled={!selectedDate}
           onPress={onDateConfirmation}
         />
       </DatePicker>
