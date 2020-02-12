@@ -1,1 +1,0 @@
-export {WorkGallery} from './WorkGallery';

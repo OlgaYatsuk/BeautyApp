@@ -1,9 +1,6 @@
 import {StyleSheet} from 'react-native';
+import {colors} from '../../framework/ui/colors';
 
 export const styles = StyleSheet.create({
-  datePicker: {
-    position: 'absolute',
-    bottom: 25,
-    width: '100%',
-  },
+
 });

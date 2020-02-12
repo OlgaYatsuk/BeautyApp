@@ -19,4 +19,12 @@ export const styles = StyleSheet.create({
     color: colors.white,
     fontWeight: '700',
   },
+  buttonSmall: {
+    width: 'auto',
+    minWidth: 160,
+    paddingVertical: 18,
+    marginTop: 18,
+    backgroundColor: colors.pink,
+    marginHorizontal: 'auto',
+  },
 });

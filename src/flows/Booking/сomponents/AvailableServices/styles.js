@@ -2,17 +2,20 @@ import {StyleSheet} from 'react-native';
 import {colors} from '../../../../framework/ui/colors';
 
 export const styles = StyleSheet.create({
-  workGallery: {
+  availableServices: {
+    marginTop: 20,
+  },
+  availableServicesGrid: {
     flexDirection: 'row',
     flexWrap: 'wrap',
-    justifyContent: 'space-between',
-    marginTop: 32,
+    marginTop: 12,
   },
-  galleryImage: {
-    height: 130,
+  availableServicesImage: {
+    height: 110,
     borderRadius: 16,
-    marginBottom: 12,
-    width: '48.5%',
+    marginBottom: 10,
+    marginRight: 10,
+    width: '30.2%',
     backgroundColor: colors.orange,
   },
 });
