@@ -12,6 +12,7 @@ export const BookingScreen = () => {
     isConfirmationWindowVisible,
     setConfirmationWindowVisibility,
   ] = useState(false);
+
   const {onDaySelection, selectedDate} = useCalendar();
 
   const showCalendar = () => {
@@ -32,7 +33,11 @@ export const BookingScreen = () => {
       <View style={[commonStyles.container, commonStyles.darkScreen]}>
         <SpecialistInfo />
         <AvailableServices />
-        <Button onPress={showCalendar} title={'Show availability'} />
+        <Button
+          onPress={showCalendar}
+          title={'Show availability'}
+          testID={'availability-btn'}
+        />
       </View>
       {isConfirmationWindowVisible &&
         Alert.alert(

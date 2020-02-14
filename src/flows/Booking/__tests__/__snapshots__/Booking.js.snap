@@ -1,0 +1,5373 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<RCTScrollView
+  bounces={false}
+>
+  <View>
+    <View
+      style={
+        Array [
+          Object {
+            "paddingHorizontal": 16,
+            "paddingVertical": 32,
+          },
+          Object {
+            "backgroundColor": "#000000",
+            "flex": 1,
+            "paddingTop": 30,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+          }
+        }
+      >
+        <Image
+          style={
+            Object {
+              "backgroundColor": "#4821e3",
+              "borderRadius": 200,
+              "height": 150,
+              "marginBottom": 24,
+              "resizeMode": "cover",
+              "width": 150,
+            }
+          }
+        />
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontSize": 24,
+                "fontWeight": "600",
+                "marginBottom": 12,
+              },
+              Object {
+                "color": "#ffffff",
+              },
+            ]
+          }
+        >
+          Olha Yatsuk
+        </Text>
+        <Text
+          style={
+            Array [
+              Object {
+                "fontSize": 16,
+              },
+              Object {
+                "color": "#ffffff",
+              },
+            ]
+          }
+        >
+          ⭐️ 4.97
+        </Text>
+        <Text
+          style={
+            Array [
+              Object {
+                "fontSize": 16,
+              },
+              Object {
+                "color": "#ffffff",
+                "lineHeight": 20,
+                "opacity": 0.6,
+              },
+              Object {
+                "marginTop": 16,
+                "paddingHorizontal": 16,
+                "textAlign": "center",
+              },
+            ]
+          }
+        >
+          Fashion Based makeup. “Let Colour Catch Your Eye and Shout Out Loud” Great for a night out… Maybe you want a really boot-black smoky eye with nude lips, or the perfect flick eye liner.
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "marginBottom": 20,
+            "marginTop": 20,
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontSize": 24,
+                "fontWeight": "600",
+                "marginBottom": 12,
+              },
+              Object {
+                "color": "#ffffff",
+              },
+            ]
+          }
+        >
+          Choose services
+        </Text>
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "flexWrap": "wrap",
+              "marginTop": 12,
+            }
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            isTVSelectable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#eda236",
+                "borderRadius": 16,
+                "height": 70,
+                "justifyContent": "center",
+                "marginBottom": 10,
+                "marginRight": 10,
+                "opacity": 1,
+                "width": "30.2%",
+              }
+            }
+          >
+            <Image />
+            <Text
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "color": "#ffffff",
+                  "fontSize": 20,
+                  "fontWeight": "600",
+                }
+              }
+            >
+              shellack
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "lineHeight": 20,
+                  "opacity": 0.6,
+                }
+              }
+            >
+              120
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            isTVSelectable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#eda236",
+                "borderRadius": 16,
+                "height": 70,
+                "justifyContent": "center",
+                "marginBottom": 10,
+                "marginRight": 10,
+                "opacity": 1,
+                "width": "30.2%",
+              }
+            }
+          >
+            <Image />
+            <Text
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "color": "#ffffff",
+                  "fontSize": 20,
+                  "fontWeight": "600",
+                }
+              }
+            >
+              form
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "lineHeight": 20,
+                  "opacity": 0.6,
+                }
+              }
+            >
+              40
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            isTVSelectable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#eda236",
+                "borderRadius": 16,
+                "height": 70,
+                "justifyContent": "center",
+                "marginBottom": 10,
+                "marginRight": 10,
+                "opacity": 1,
+                "width": "30.2%",
+              }
+            }
+          >
+            <Image />
+            <Text
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "color": "#ffffff",
+                  "fontSize": 20,
+                  "fontWeight": "600",
+                }
+              }
+            >
+              top
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "lineHeight": 20,
+                  "opacity": 0.6,
+                }
+              }
+            >
+              30
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            isTVSelectable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#eda236",
+                "borderRadius": 16,
+                "height": 70,
+                "justifyContent": "center",
+                "marginBottom": 10,
+                "marginRight": 10,
+                "opacity": 1,
+                "width": "30.2%",
+              }
+            }
+          >
+            <Image />
+            <Text
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "color": "#ffffff",
+                  "fontSize": 20,
+                  "fontWeight": "600",
+                }
+              }
+            >
+              art
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "lineHeight": 20,
+                  "opacity": 0.6,
+                }
+              }
+            >
+              200
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            isTVSelectable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#eda236",
+                "borderRadius": 16,
+                "height": 70,
+                "justifyContent": "center",
+                "marginBottom": 10,
+                "marginRight": 10,
+                "opacity": 1,
+                "width": "30.2%",
+              }
+            }
+          >
+            <Image />
+            <Text
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "color": "#ffffff",
+                  "fontSize": 20,
+                  "fontWeight": "600",
+                }
+              }
+            >
+              hard art
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "lineHeight": 20,
+                  "opacity": 0.6,
+                }
+              }
+            >
+              220
+            </Text>
+          </View>
+        </View>
+        <Text
+          style={
+            Array [
+              Object {
+                "fontSize": 20,
+                "fontWeight": "500",
+              },
+              Object {
+                "color": "#ffffff",
+              },
+              Object {
+                "marginTop": 24,
+              },
+            ]
+          }
+        >
+          Duration of visit: 
+          0
+           min
+        </Text>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignSelf": "center",
+            "backgroundColor": "#ed2460",
+            "borderRadius": 12,
+            "marginBottom": 12,
+            "marginTop": 16,
+            "opacity": 1,
+            "paddingHorizontal": 16,
+            "paddingVertical": 20,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#ffffff",
+              "fontSize": 20,
+              "fontWeight": "700",
+              "textAlign": "center",
+            }
+          }
+        >
+          Show availability
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "backgroundColor": "#000000",
+          "borderColor": "#3fe2d1",
+          "borderTopWidth": 2,
+          "bottom": -600,
+          "overflow": "hidden",
+          "paddingBottom": 50,
+          "position": "absolute",
+          "width": "100%",
+        }
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "height": 15,
+            "opacity": 1,
+            "position": "absolute",
+            "top": 0,
+            "width": "100%",
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "backgroundColor": "#000000",
+            "borderBottomWidth": 2,
+            "borderColor": "#3fe2d1",
+            "borderRightWidth": 2,
+            "flexDirection": "row",
+            "height": 20,
+            "left": -5,
+            "marginBottom": 2,
+            "top": -10,
+            "width": 20,
+          }
+        }
+        transform={
+          Array [
+            Object {
+              "rotate": "45deg",
+            },
+          ]
+        }
+      />
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#000000",
+              "paddingLeft": 5,
+              "paddingRight": 5,
+            },
+            undefined,
+          ]
+        }
+      >
+        <View
+          accessibilityActions={
+            Array [
+              Object {
+                "label": "increment",
+                "name": "increment",
+              },
+              Object {
+                "label": "decrement",
+                "name": "decrement",
+              },
+            ]
+          }
+          accessibilityRole="adjustable"
+          accessible={true}
+          onAccessibilityAction={[Function]}
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "marginTop": 6,
+                "paddingLeft": 10,
+                "paddingRight": 10,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              focusable={true}
+              hitSlop={
+                Object {
+                  "bottom": 20,
+                  "left": 20,
+                  "right": 20,
+                  "top": 20,
+                }
+              }
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                  "padding": 10,
+                }
+              }
+              testID="native.calendar.CHANGE_MONTH_LEFT_ARROW"
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../react-native-calendars/src/calendar/img/previous.png",
+                  }
+                }
+                style={
+                  Object {
+                    "tintColor": "#ed2460",
+                  }
+                }
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  Object {
+                    "color": "#ed2460",
+                    "fontFamily": "System",
+                    "fontSize": 24,
+                    "fontWeight": "bold",
+                    "margin": 10,
+                  }
+                }
+              >
+                2020 February
+              </Text>
+            </View>
+            <View
+              accessible={true}
+              focusable={true}
+              hitSlop={
+                Object {
+                  "bottom": 20,
+                  "left": 20,
+                  "right": 20,
+                  "top": 20,
+                }
+              }
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                  "padding": 10,
+                }
+              }
+              testID="native.calendar.CHANGE_MONTH_RIGHT_ARROW"
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../react-native-calendars/src/calendar/img/next.png",
+                  }
+                }
+                style={
+                  Object {
+                    "tintColor": "#ed2460",
+                  }
+                }
+              />
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-around",
+                "marginTop": 7,
+              }
+            }
+          >
+            <Text
+              accessibilityLabel=""
+              allowFontScaling={false}
+              numberOfLines={1}
+              style={
+                Object {
+                  "color": "#b6c1cd",
+                  "fontFamily": "System",
+                  "fontSize": 14,
+                  "fontWeight": "300",
+                  "marginBottom": 7,
+                  "marginTop": 2,
+                  "textAlign": "center",
+                  "width": 32,
+                }
+              }
+            >
+              Mon
+            </Text>
+            <Text
+              accessibilityLabel=""
+              allowFontScaling={false}
+              numberOfLines={1}
+              style={
+                Object {
+                  "color": "#b6c1cd",
+                  "fontFamily": "System",
+                  "fontSize": 14,
+                  "fontWeight": "300",
+                  "marginBottom": 7,
+                  "marginTop": 2,
+                  "textAlign": "center",
+                  "width": 32,
+                }
+              }
+            >
+              Tue
+            </Text>
+            <Text
+              accessibilityLabel=""
+              allowFontScaling={false}
+              numberOfLines={1}
+              style={
+                Object {
+                  "color": "#b6c1cd",
+                  "fontFamily": "System",
+                  "fontSize": 14,
+                  "fontWeight": "300",
+                  "marginBottom": 7,
+                  "marginTop": 2,
+                  "textAlign": "center",
+                  "width": 32,
+                }
+              }
+            >
+              Wed
+            </Text>
+            <Text
+              accessibilityLabel=""
+              allowFontScaling={false}
+              numberOfLines={1}
+              style={
+                Object {
+                  "color": "#b6c1cd",
+                  "fontFamily": "System",
+                  "fontSize": 14,
+                  "fontWeight": "300",
+                  "marginBottom": 7,
+                  "marginTop": 2,
+                  "textAlign": "center",
+                  "width": 32,
+                }
+              }
+            >
+              Thu
+            </Text>
+            <Text
+              accessibilityLabel=""
+              allowFontScaling={false}
+              numberOfLines={1}
+              style={
+                Object {
+                  "color": "#b6c1cd",
+                  "fontFamily": "System",
+                  "fontSize": 14,
+                  "fontWeight": "300",
+                  "marginBottom": 7,
+                  "marginTop": 2,
+                  "textAlign": "center",
+                  "width": 32,
+                }
+              }
+            >
+              Fri
+            </Text>
+            <Text
+              accessibilityLabel=""
+              allowFontScaling={false}
+              numberOfLines={1}
+              style={
+                Object {
+                  "color": "#b6c1cd",
+                  "fontFamily": "System",
+                  "fontSize": 14,
+                  "fontWeight": "300",
+                  "marginBottom": 7,
+                  "marginTop": 2,
+                  "textAlign": "center",
+                  "width": 32,
+                }
+              }
+            >
+              Sat
+            </Text>
+            <Text
+              accessibilityLabel=""
+              allowFontScaling={false}
+              numberOfLines={1}
+              style={
+                Object {
+                  "color": "#b6c1cd",
+                  "fontFamily": "System",
+                  "fontSize": 14,
+                  "fontWeight": "300",
+                  "marginBottom": 7,
+                  "marginTop": 2,
+                  "textAlign": "center",
+                  "width": 32,
+                }
+              }
+            >
+              Sun
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "backgroundColor": "#000000",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-around",
+                "marginBottom": 7,
+                "marginTop": 7,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Monday January 27 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-01-27"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  27
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Tuesday January 28 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-01-28"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  28
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Wednesday January 29 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-01-29"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  29
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Thursday January 30 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-01-30"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  30
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Friday January 31 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-01-31"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  31
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Saturday February 1 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-01"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  1
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Sunday February 2 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-02"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  2
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-around",
+                "marginBottom": 7,
+                "marginTop": 7,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Monday February 3 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-03"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  3
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Tuesday February 4 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-04"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  4
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Wednesday February 5 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-05"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  5
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Thursday February 6 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-06"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  6
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Friday February 7 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-07"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  7
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Saturday February 8 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-08"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  8
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Sunday February 9 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-09"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  9
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-around",
+                "marginBottom": 7,
+                "marginTop": 7,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Monday February 10 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-10"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  10
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Tuesday February 11 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-11"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  11
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Wednesday February 12 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-12"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  12
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Thursday February 13 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-13"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  13
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel="today Friday February 14 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": undefined,
+                    "borderRadius": 16,
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-14"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#ed2460",
+                      },
+                    ]
+                  }
+                >
+                  14
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Saturday February 15 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-15"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  15
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Sunday February 16 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-16"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  16
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-around",
+                "marginBottom": 7,
+                "marginTop": 7,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Monday February 17 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-17"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  17
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Tuesday February 18 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-18"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  18
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Wednesday February 19 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-19"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  19
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Thursday February 20 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-20"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  20
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Friday February 21 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-21"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  21
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Saturday February 22 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-22"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  22
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Sunday February 23 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-23"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  23
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-around",
+                "marginBottom": 7,
+                "marginTop": 7,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Monday February 24 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-24"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  24
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Tuesday February 25 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-25"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  25
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Wednesday February 26 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-26"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  26
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Thursday February 27 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-27"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  27
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Friday February 28 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-28"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  28
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Saturday February 29 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-29"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  29
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Sunday March 1 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-03-01"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  1
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignSelf": "center",
+            "backgroundColor": "#ed2460",
+            "borderRadius": 12,
+            "marginBottom": 12,
+            "marginHorizontal": "auto",
+            "marginTop": 18,
+            "minWidth": 160,
+            "opacity": 1,
+            "paddingHorizontal": 16,
+            "paddingVertical": 18,
+            "width": "auto",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#ffffff",
+              "fontSize": 20,
+              "fontWeight": "700",
+              "textAlign": "center",
+            }
+          }
+        >
+          Confirm
+        </Text>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`Booking flow 1`] = `
+<RCTScrollView
+  bounces={false}
+>
+  <View>
+    <View
+      style={
+        Array [
+          Object {
+            "paddingHorizontal": 16,
+            "paddingVertical": 32,
+          },
+          Object {
+            "backgroundColor": "#000000",
+            "flex": 1,
+            "paddingTop": 30,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+          }
+        }
+      >
+        <Image
+          style={
+            Object {
+              "backgroundColor": "#4821e3",
+              "borderRadius": 200,
+              "height": 150,
+              "marginBottom": 24,
+              "resizeMode": "cover",
+              "width": 150,
+            }
+          }
+        />
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontSize": 24,
+                "fontWeight": "600",
+                "marginBottom": 12,
+              },
+              Object {
+                "color": "#ffffff",
+              },
+            ]
+          }
+        >
+          Olha Yatsuk
+        </Text>
+        <Text
+          style={
+            Array [
+              Object {
+                "fontSize": 16,
+              },
+              Object {
+                "color": "#ffffff",
+              },
+            ]
+          }
+        >
+          ⭐️ 4.97
+        </Text>
+        <Text
+          style={
+            Array [
+              Object {
+                "fontSize": 16,
+              },
+              Object {
+                "color": "#ffffff",
+                "lineHeight": 20,
+                "opacity": 0.6,
+              },
+              Object {
+                "marginTop": 16,
+                "paddingHorizontal": 16,
+                "textAlign": "center",
+              },
+            ]
+          }
+        >
+          Fashion Based makeup. “Let Colour Catch Your Eye and Shout Out Loud” Great for a night out… Maybe you want a really boot-black smoky eye with nude lips, or the perfect flick eye liner.
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "marginBottom": 20,
+            "marginTop": 20,
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontSize": 24,
+                "fontWeight": "600",
+                "marginBottom": 12,
+              },
+              Object {
+                "color": "#ffffff",
+              },
+            ]
+          }
+        >
+          Choose services
+        </Text>
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "flexWrap": "wrap",
+              "marginTop": 12,
+            }
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            isTVSelectable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#eda236",
+                "borderRadius": 16,
+                "height": 70,
+                "justifyContent": "center",
+                "marginBottom": 10,
+                "marginRight": 10,
+                "opacity": 1,
+                "width": "30.2%",
+              }
+            }
+          >
+            <Image />
+            <Text
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "color": "#ffffff",
+                  "fontSize": 20,
+                  "fontWeight": "600",
+                }
+              }
+            >
+              shellack
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "lineHeight": 20,
+                  "opacity": 0.6,
+                }
+              }
+            >
+              120
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            isTVSelectable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#eda236",
+                "borderRadius": 16,
+                "height": 70,
+                "justifyContent": "center",
+                "marginBottom": 10,
+                "marginRight": 10,
+                "opacity": 1,
+                "width": "30.2%",
+              }
+            }
+          >
+            <Image />
+            <Text
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "color": "#ffffff",
+                  "fontSize": 20,
+                  "fontWeight": "600",
+                }
+              }
+            >
+              form
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "lineHeight": 20,
+                  "opacity": 0.6,
+                }
+              }
+            >
+              40
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            isTVSelectable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#eda236",
+                "borderRadius": 16,
+                "height": 70,
+                "justifyContent": "center",
+                "marginBottom": 10,
+                "marginRight": 10,
+                "opacity": 1,
+                "width": "30.2%",
+              }
+            }
+          >
+            <Image />
+            <Text
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "color": "#ffffff",
+                  "fontSize": 20,
+                  "fontWeight": "600",
+                }
+              }
+            >
+              top
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "lineHeight": 20,
+                  "opacity": 0.6,
+                }
+              }
+            >
+              30
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            isTVSelectable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#eda236",
+                "borderRadius": 16,
+                "height": 70,
+                "justifyContent": "center",
+                "marginBottom": 10,
+                "marginRight": 10,
+                "opacity": 1,
+                "width": "30.2%",
+              }
+            }
+          >
+            <Image />
+            <Text
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "color": "#ffffff",
+                  "fontSize": 20,
+                  "fontWeight": "600",
+                }
+              }
+            >
+              art
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "lineHeight": 20,
+                  "opacity": 0.6,
+                }
+              }
+            >
+              200
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            isTVSelectable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#eda236",
+                "borderRadius": 16,
+                "height": 70,
+                "justifyContent": "center",
+                "marginBottom": 10,
+                "marginRight": 10,
+                "opacity": 1,
+                "width": "30.2%",
+              }
+            }
+          >
+            <Image />
+            <Text
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "color": "#ffffff",
+                  "fontSize": 20,
+                  "fontWeight": "600",
+                }
+              }
+            >
+              hard art
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "lineHeight": 20,
+                  "opacity": 0.6,
+                }
+              }
+            >
+              220
+            </Text>
+          </View>
+        </View>
+        <Text
+          style={
+            Array [
+              Object {
+                "fontSize": 20,
+                "fontWeight": "500",
+              },
+              Object {
+                "color": "#ffffff",
+              },
+              Object {
+                "marginTop": 24,
+              },
+            ]
+          }
+        >
+          Duration of visit: 
+          0
+           min
+        </Text>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignSelf": "center",
+            "backgroundColor": "#ed2460",
+            "borderRadius": 12,
+            "marginBottom": 12,
+            "marginTop": 16,
+            "opacity": 1,
+            "paddingHorizontal": 16,
+            "paddingVertical": 20,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#ffffff",
+              "fontSize": 20,
+              "fontWeight": "700",
+              "textAlign": "center",
+            }
+          }
+        >
+          Show availability
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "backgroundColor": "#000000",
+          "borderColor": "#3fe2d1",
+          "borderTopWidth": 2,
+          "bottom": -600,
+          "overflow": "hidden",
+          "paddingBottom": 50,
+          "position": "absolute",
+          "width": "100%",
+        }
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "height": 15,
+            "opacity": 1,
+            "position": "absolute",
+            "top": 0,
+            "width": "100%",
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "backgroundColor": "#000000",
+            "borderBottomWidth": 2,
+            "borderColor": "#3fe2d1",
+            "borderRightWidth": 2,
+            "flexDirection": "row",
+            "height": 20,
+            "left": -5,
+            "marginBottom": 2,
+            "top": -10,
+            "width": 20,
+          }
+        }
+        transform={
+          Array [
+            Object {
+              "rotate": "45deg",
+            },
+          ]
+        }
+      />
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#000000",
+              "paddingLeft": 5,
+              "paddingRight": 5,
+            },
+            undefined,
+          ]
+        }
+      >
+        <View
+          accessibilityActions={
+            Array [
+              Object {
+                "label": "increment",
+                "name": "increment",
+              },
+              Object {
+                "label": "decrement",
+                "name": "decrement",
+              },
+            ]
+          }
+          accessibilityRole="adjustable"
+          accessible={true}
+          onAccessibilityAction={[Function]}
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "marginTop": 6,
+                "paddingLeft": 10,
+                "paddingRight": 10,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              focusable={true}
+              hitSlop={
+                Object {
+                  "bottom": 20,
+                  "left": 20,
+                  "right": 20,
+                  "top": 20,
+                }
+              }
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                  "padding": 10,
+                }
+              }
+              testID="native.calendar.CHANGE_MONTH_LEFT_ARROW"
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../react-native-calendars/src/calendar/img/previous.png",
+                  }
+                }
+                style={
+                  Object {
+                    "tintColor": "#ed2460",
+                  }
+                }
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  Object {
+                    "color": "#ed2460",
+                    "fontFamily": "System",
+                    "fontSize": 24,
+                    "fontWeight": "bold",
+                    "margin": 10,
+                  }
+                }
+              >
+                2020 February
+              </Text>
+            </View>
+            <View
+              accessible={true}
+              focusable={true}
+              hitSlop={
+                Object {
+                  "bottom": 20,
+                  "left": 20,
+                  "right": 20,
+                  "top": 20,
+                }
+              }
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                  "padding": 10,
+                }
+              }
+              testID="native.calendar.CHANGE_MONTH_RIGHT_ARROW"
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../react-native-calendars/src/calendar/img/next.png",
+                  }
+                }
+                style={
+                  Object {
+                    "tintColor": "#ed2460",
+                  }
+                }
+              />
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-around",
+                "marginTop": 7,
+              }
+            }
+          >
+            <Text
+              accessibilityLabel=""
+              allowFontScaling={false}
+              numberOfLines={1}
+              style={
+                Object {
+                  "color": "#b6c1cd",
+                  "fontFamily": "System",
+                  "fontSize": 14,
+                  "fontWeight": "300",
+                  "marginBottom": 7,
+                  "marginTop": 2,
+                  "textAlign": "center",
+                  "width": 32,
+                }
+              }
+            >
+              Mon
+            </Text>
+            <Text
+              accessibilityLabel=""
+              allowFontScaling={false}
+              numberOfLines={1}
+              style={
+                Object {
+                  "color": "#b6c1cd",
+                  "fontFamily": "System",
+                  "fontSize": 14,
+                  "fontWeight": "300",
+                  "marginBottom": 7,
+                  "marginTop": 2,
+                  "textAlign": "center",
+                  "width": 32,
+                }
+              }
+            >
+              Tue
+            </Text>
+            <Text
+              accessibilityLabel=""
+              allowFontScaling={false}
+              numberOfLines={1}
+              style={
+                Object {
+                  "color": "#b6c1cd",
+                  "fontFamily": "System",
+                  "fontSize": 14,
+                  "fontWeight": "300",
+                  "marginBottom": 7,
+                  "marginTop": 2,
+                  "textAlign": "center",
+                  "width": 32,
+                }
+              }
+            >
+              Wed
+            </Text>
+            <Text
+              accessibilityLabel=""
+              allowFontScaling={false}
+              numberOfLines={1}
+              style={
+                Object {
+                  "color": "#b6c1cd",
+                  "fontFamily": "System",
+                  "fontSize": 14,
+                  "fontWeight": "300",
+                  "marginBottom": 7,
+                  "marginTop": 2,
+                  "textAlign": "center",
+                  "width": 32,
+                }
+              }
+            >
+              Thu
+            </Text>
+            <Text
+              accessibilityLabel=""
+              allowFontScaling={false}
+              numberOfLines={1}
+              style={
+                Object {
+                  "color": "#b6c1cd",
+                  "fontFamily": "System",
+                  "fontSize": 14,
+                  "fontWeight": "300",
+                  "marginBottom": 7,
+                  "marginTop": 2,
+                  "textAlign": "center",
+                  "width": 32,
+                }
+              }
+            >
+              Fri
+            </Text>
+            <Text
+              accessibilityLabel=""
+              allowFontScaling={false}
+              numberOfLines={1}
+              style={
+                Object {
+                  "color": "#b6c1cd",
+                  "fontFamily": "System",
+                  "fontSize": 14,
+                  "fontWeight": "300",
+                  "marginBottom": 7,
+                  "marginTop": 2,
+                  "textAlign": "center",
+                  "width": 32,
+                }
+              }
+            >
+              Sat
+            </Text>
+            <Text
+              accessibilityLabel=""
+              allowFontScaling={false}
+              numberOfLines={1}
+              style={
+                Object {
+                  "color": "#b6c1cd",
+                  "fontFamily": "System",
+                  "fontSize": 14,
+                  "fontWeight": "300",
+                  "marginBottom": 7,
+                  "marginTop": 2,
+                  "textAlign": "center",
+                  "width": 32,
+                }
+              }
+            >
+              Sun
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "backgroundColor": "#000000",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-around",
+                "marginBottom": 7,
+                "marginTop": 7,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Monday January 27 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-01-27"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  27
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Tuesday January 28 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-01-28"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  28
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Wednesday January 29 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-01-29"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  29
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Thursday January 30 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-01-30"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  30
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Friday January 31 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-01-31"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  31
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Saturday February 1 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-01"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  1
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Sunday February 2 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-02"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  2
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-around",
+                "marginBottom": 7,
+                "marginTop": 7,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Monday February 3 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-03"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  3
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Tuesday February 4 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-04"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  4
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Wednesday February 5 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-05"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  5
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Thursday February 6 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-06"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  6
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Friday February 7 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-07"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  7
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Saturday February 8 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-08"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  8
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Sunday February 9 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-09"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  9
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-around",
+                "marginBottom": 7,
+                "marginTop": 7,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Monday February 10 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-10"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  10
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Tuesday February 11 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-11"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  11
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Wednesday February 12 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-12"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  12
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Thursday February 13 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-13"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  13
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel="today Friday February 14 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": undefined,
+                    "borderRadius": 16,
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-14"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#ed2460",
+                      },
+                    ]
+                  }
+                >
+                  14
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Saturday February 15 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-15"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  15
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Sunday February 16 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-16"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  16
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-around",
+                "marginBottom": 7,
+                "marginTop": 7,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Monday February 17 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-17"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  17
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Tuesday February 18 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-18"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  18
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Wednesday February 19 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-19"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  19
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Thursday February 20 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-20"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  20
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Friday February 21 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-21"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  21
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Saturday February 22 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-22"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  22
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Sunday February 23 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-23"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  23
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-around",
+                "marginBottom": 7,
+                "marginTop": 7,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Monday February 24 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-24"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  24
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Tuesday February 25 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-25"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  25
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Wednesday February 26 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-26"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  26
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Thursday February 27 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-27"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  27
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Friday February 28 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-28"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  28
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Saturday February 29 "
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-02-29"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                    ]
+                  }
+                >
+                  29
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "flex": 1,
+                }
+              }
+            >
+              <View
+                accessibilityLabel=" Sunday March 1 "
+                accessible={true}
+                focusable={true}
+                isTVSelectable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": 32,
+                    "opacity": 1,
+                    "width": 32,
+                  }
+                }
+                testID="native.calendar.SELECT_DATE_SLOT-2020-03-01"
+              >
+                <Text
+                  allowFontScaling={false}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(255, 255, 255, 0)",
+                        "color": "#ffffff",
+                        "fontFamily": "System",
+                        "fontSize": 18,
+                        "fontWeight": "300",
+                        "marginTop": 6,
+                      },
+                      Object {
+                        "color": "#6b6b6b",
+                      },
+                    ]
+                  }
+                >
+                  1
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignSelf": "center",
+            "backgroundColor": "#ed2460",
+            "borderRadius": 12,
+            "marginBottom": 12,
+            "marginHorizontal": "auto",
+            "marginTop": 18,
+            "minWidth": 160,
+            "opacity": 1,
+            "paddingHorizontal": 16,
+            "paddingVertical": 18,
+            "width": "auto",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#ffffff",
+              "fontSize": 20,
+              "fontWeight": "700",
+              "textAlign": "center",
+            }
+          }
+        >
+          Confirm
+        </Text>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;

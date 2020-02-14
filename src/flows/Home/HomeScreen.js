@@ -10,7 +10,11 @@ import {lastBooked} from './lastBooked';
 import {styles} from './styles';
 
 export const HomeScreen = ({navigation: {navigate}}) => {
-  const {searchValue, handleSearchChange} = useSearch();
+  const {searchValue, handleSearchChange, filteredArray} = useSearch(
+    lastBooked,
+  );
+
+  const renderEmptyList = () => <Text>Nothing found😔 Try to search anything else...</Text>;
 
   return (
     <SafeAreaView>
@@ -25,9 +29,16 @@ export const HomeScreen = ({navigation: {navigate}}) => {
         <Filters />
         <Text style={fonts.mediumTitle}>We recommend:</Text>
         <FlatList
-          data={lastBooked}
+          data={filteredArray}
+          ListEmptyComponent={renderEmptyList()}
           contentContainerStyle={styles.listBottomPadding}
-          renderItem={(item, index) => <LastBookedItem item={item.item} navigate={navigate} index={index} />}
+          renderItem={(item, index) => (
+            <LastBookedItem
+              item={item.item}
+              navigate={navigate}
+              index={index}
+            />
+          )}
         />
       </ScrollView>
     </SafeAreaView>

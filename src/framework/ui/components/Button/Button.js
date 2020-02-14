@@ -7,11 +7,11 @@ const Button = ({title, type, onPress, disabled, style}) => {
     let buttonStyle = [styles.button];
 
     if (type) {
-      buttonStyle = [...buttonStyle, styles[`${type}`]];
+      buttonStyle.push(styles[`${type}`]);
     }
 
     if (style) {
-      buttonStyle = [...buttonStyle, style];
+      buttonStyle.push(style);
     }
 
     return buttonStyle;

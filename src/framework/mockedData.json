@@ -1,0 +1,61 @@
+{
+  "specialist": [
+    {
+      "name": "Olha Yatsuk",
+      "rating": 4.97,
+      "description": " Fashion Based makeup. “Let Colour Catch Your Eye and Shout Out Loud”\n Great for a night out… Maybe you want a really boot-black smoky eye with nude lips, or the perfect flick eye liner."
+      "markedDates": {
+        "09-02-2020": {
+          "disabled": true,
+          "disableTouchEvent": true
+        },
+        "12-02-2020": {
+          "disabled": true,
+          "disableTouchEvent": true
+        },
+        "16-02-2020": {
+          "disabled": true,
+          "disableTouchEvent": true
+        }
+      }
+    },
+    {
+      "name": "Iryna Strykun",
+      "rating": 4.17,
+      "description": " Fashion Based makeup. “Let Colour Catch Your Eye and Shout Out Loud”\n Great for a night out… Maybe you want a really boot-black smoky eye with nude lips, or the perfect flick eye liner."
+      "markedDates": {
+        "09-02-2020": {
+          "disabled": true,
+          "disableTouchEvent": true
+        },
+        "12-02-2020": {
+          "disabled": true,
+          "disableTouchEvent": true
+        },
+        "16-02-2020": {
+          "disabled": true,
+          "disableTouchEvent": true
+        }
+      }
+    },
+    {
+      "name": "Anton Sukhorada",
+      "rating": 4.45,
+      "description": " Fashion Based makeup. “Let Colour Catch Your Eye and Shout Out Loud”\n Great for a night out… Maybe you want a really boot-black smoky eye with nude lips, or the perfect flick eye liner."
+      "markedDates": {
+        "09-02-2020": {
+          "disabled": true,
+          "disableTouchEvent": true
+        },
+        "12-02-2020": {
+          "disabled": true,
+          "disableTouchEvent": true
+        },
+        "16-02-2020": {
+          "disabled": true,
+          "disableTouchEvent": true
+        }
+      }
+    }
+  ]
+}

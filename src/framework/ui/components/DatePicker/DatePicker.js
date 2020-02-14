@@ -12,7 +12,7 @@ export const DatePicker = ({
   onDayPress,
   children,
 }) => {
-  const [bottomValue] = useState(new Animated.Value(-500));
+  const [bottomValue] = useState(new Animated.Value(-600));
 
   const showCalendar = () => {
     Animated.spring(bottomValue, {
@@ -23,7 +23,7 @@ export const DatePicker = ({
 
   const hideCalendar = () => {
     Animated.spring(bottomValue, {
-      toValue: -500,
+      toValue: -600,
       duration: 800,
     }).start();
   };

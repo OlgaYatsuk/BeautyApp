@@ -7,13 +7,15 @@
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "fakeDB": "json-server --watch mockedData.json"
   },
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.6",
     "@react-navigation/native": "^5.0.0",
     "@react-navigation/stack": "^5.0.0",
     "axios": "^0.19.2",
+    "enzyme": "^3.11.0",
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-calendars": "^1.261.0",
