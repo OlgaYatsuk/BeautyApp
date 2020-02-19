@@ -14,6 +14,7 @@ export const DatePicker = ({
 }) => {
   const [bottomValue] = useState(new Animated.Value(-600));
 
+  console.log('markedDates', markedDates);
   const showCalendar = () => {
     Animated.spring(bottomValue, {
       toValue: 0,

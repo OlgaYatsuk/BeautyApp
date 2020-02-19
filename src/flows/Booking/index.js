@@ -1,1 +1,1 @@
-export {BookingScreen} from './BookingScreen';
+export BookingScreen from './BookingScreen';
