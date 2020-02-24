@@ -1,7 +1,7 @@
 // @flow
 
 import React, {Component} from 'react';
-import {TextInput} from 'react-native';
+import {TextInput, Text, View} from 'react-native';
 import {styles} from './styles';
 
 class TextField extends Component {
@@ -14,20 +14,28 @@ class TextField extends Component {
       onChange,
       onFocus,
       onBlur,
+      label,
       value,
       ref,
     } = this.props;
 
     return (
-      <TextInput
-        ref={ref}
-        onChangeText={onChange}
-        value={value}
-        placeholder={placeholder}
-        onFocus={onFocus}
-        onBlur={onBlur}
-        style={[styles.textInput, style]}
-      />
+      <>
+        {label && (
+          <View style={styles.inputLabelWrapper}>
+            <Text style={styles.inputLabel}>{label}</Text>
+          </View>
+        )}
+        <TextInput
+          ref={ref}
+          onChangeText={onChange}
+          value={value}
+          placeholder={placeholder}
+          onFocus={onFocus}
+          onBlur={onBlur}
+          style={[styles.textInput, style]}
+        />
+      </>
     );
   }
 }

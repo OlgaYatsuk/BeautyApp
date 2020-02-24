@@ -4,6 +4,7 @@ import React from 'react';
 import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
 import {RegistrationScreen} from './src/flows/Registration';
+import {RegistrationForm} from './src/flows/Registration/RegistrationForm';
 import {HomeScreen} from './src/flows/Home';
 import {BookingScreen} from './src/flows/Booking';
 import {commonStyles} from './src/framework/ui/styles';
@@ -18,6 +19,13 @@ const App: () => React$Node = () => {
           <Stack.Screen
             name="RegistrationScreen"
             component={RegistrationScreen}
+            options={{
+              headerShown: false,
+            }}
+          />
+          <Stack.Screen
+            name="RegistrationForm"
+            component={RegistrationForm}
             options={{
               headerShown: false,
             }}

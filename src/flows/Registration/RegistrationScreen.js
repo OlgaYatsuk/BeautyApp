@@ -1,7 +1,7 @@
 // @flow
 
 import React from 'react';
-import {View, ImageBackground} from 'react-native';
+import {View, ImageBackground, TouchableOpacity, Text} from 'react-native';
 import {TextField, Button} from '../../framework/ui/components';
 import {registrationStyles} from './styles';
 import {commonStyles} from '../../framework/ui/styles';
@@ -19,6 +19,12 @@ const RegistrationScreen = ({navigation: {navigate}}) => {
           onPress={() => navigate('Home')}
           title="Dive into beauty world"
         />
+        <TouchableOpacity
+          onPress={() => navigate('RegistrationForm', {screen: 'Step1'})}>
+          <Text style={registrationStyles.registrationLink}>
+            Or tap to register ->
+          </Text>
+        </TouchableOpacity>
       </View>
     </ImageBackground>
   );

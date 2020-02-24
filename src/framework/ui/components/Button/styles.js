@@ -6,7 +6,7 @@ export const styles = StyleSheet.create({
   button: {
     borderRadius: 12,
     alignSelf: 'center',
-    width: '100%',
+    width: '80%',
     marginTop: 16,
     marginBottom: 12,
     paddingHorizontal: 16,
@@ -15,7 +15,7 @@ export const styles = StyleSheet.create({
   },
   buttonText: {
     textAlign: 'center',
-    fontSize: 20,
+    fontSize: 18,
     color: colors.white,
     fontWeight: '700',
   },
