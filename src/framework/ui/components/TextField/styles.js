@@ -4,7 +4,9 @@ export const styles = {
   textInput: {
     borderRadius: 12,
     backgroundColor: colors.white,
-    paddingVertical: 16,
+    paddingBottom: 16,
+    textAlignVertical: 'top',
+    paddingTop: 16,
     fontSize: 16,
     marginBottom: 16,
     paddingHorizontal: 16,

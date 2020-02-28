@@ -1,13 +1,17 @@
 import React, {useState} from 'react';
-import {View, Image} from 'react-native';
-import {TextField, Button} from '../../../../framework/ui/components';
+import {View, Image, Text} from 'react-native';
+import {Button} from '../../../../framework/ui/components';
 import {commonStyles} from '../../../../framework/ui/styles';
+import * as images from '../../../../framework/ui/images';
 import {registrationStyles} from '../../styles';
-import useCameraRoll from '../../hooks/useCamera';
 import ImagePicker from 'react-native-image-picker';
+import {fonts} from '../../../../framework/ui/fonts';
+import {registrationStore} from '../../../../framework/stores/RegistrationStore';
+import { observer } from "mobx-react";
 
-export const Step2 = ({navigation: {navigate}}) => {
-  const [picture, setPictures] = useState([]);
+export const Step2 = observer(({navigation: {navigate}}) => {
+  const [photo, setPhoto] = useState(images.default.user);
+  const [photoPermission, setPhotoPermission] = useState(false);
 
   const getPhotos = () => {
     const options = {
@@ -20,31 +24,47 @@ export const Step2 = ({navigation: {navigate}}) => {
     };
 
     ImagePicker.showImagePicker(options, response => {
-      console.log(response);
-      if (response.didCancel) {
-        console.log('User cancelled photo picker');
-      } else if (response.error) {
-        console.log('ImagePicker Error: ', response.error);
-      } else if (response.customButton) {
-        console.log('User tapped custom button: ', response.customButton);
-      } else {
-        let source = {uri: response.uri};
-        console.log('source: ' + source);
-        // You can also display the image using data:
-        // let source = { uri: 'data:image/jpeg;base64,' + response.data };
-
-        setPictures(source);
+      try {
+        if (response.error) {
+          //TODO: handle loading error
+          console.log('ImagePicker Error: ', response.error);
+        } else {
+          let source = {uri: response.uri};
+          setPhoto(source);
+        }
+      } catch (e) {
+        console.log(e);
       }
     });
   };
 
+  const onSubmitStep = () => {
+    registrationStore.addPhoto(photo);
+    navigate('Step3');
+  };
+
   return (
     <View style={commonStyles.container}>
-      <TextField placeholder={'Tell us your name'} label={'Name:'} />
-      <Image style={registrationStyles.userImage} source={picture} />
-      <Button title="Get Photos" onPress={() => getPhotos()}>
-        Get Photos
-      </Button>
+      <Text style={[fonts.smallTitle, fonts.centeredTitle]}>
+        Please, upload your photo, to show your beauty to everyone!
+      </Text>
+      <View style={registrationStyles.userImageWrapper}>
+        <Image
+          style={registrationStyles.userImage}
+          source={photo}
+        />
+        {photo && (
+          <Text style={registrationStyles.userImageCaption}>
+            Looks just great!✨
+          </Text>
+        )}
+      </View>
+      <Button title="Upload photo" onPress={() => getPhotos()} />
+      <Button
+        title="Move to the next step"
+        type={'buttonInverted'}
+        onPress={onSubmitStep}
+      />
     </View>
   );
-};
+});

@@ -26,6 +26,10 @@ export const fonts = {
   titlePurple: {
     color: colors.purple,
   },
+  centeredTitle: {
+    textAlign: 'center',
+    marginBottom: 20,
+  },
   titleWhite: {
     color: colors.white,
   },

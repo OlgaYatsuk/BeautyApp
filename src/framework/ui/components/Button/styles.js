@@ -1,6 +1,7 @@
 import React from 'react';
 import {StyleSheet} from 'react-native';
 import {colors} from '../../colors';
+import {color} from 'react-native-reanimated';
 
 export const styles = StyleSheet.create({
   button: {
@@ -26,5 +27,13 @@ export const styles = StyleSheet.create({
     marginTop: 18,
     backgroundColor: colors.pink,
     marginHorizontal: 'auto',
+  },
+  buttonInverted: {
+    backgroundColor: colors.white,
+    borderColor: colors.pink,
+    borderWidth: 2,
+  },
+  buttonTextInverted: {
+    color: colors.pink,
   },
 });

@@ -15,4 +15,8 @@ export const commonStyles = StyleSheet.create({
     backgroundColor: colors.black,
     borderBottomWidth: 0,
   },
+  errorField: {
+    borderWidth: 1,
+    borderColor: 'red',
+  },
 });

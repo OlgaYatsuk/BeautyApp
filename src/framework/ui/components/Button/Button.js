@@ -22,7 +22,7 @@ const Button = ({title, type, onPress, disabled, style}) => {
       style={getButtonStyles()}
       onPress={onPress}
       disabled={!onPress || disabled}>
-      <Text style={styles.buttonText}>{title}</Text>
+      <Text style={type !== 'buttonInverted' ? styles.buttonText : [styles.buttonText, styles.buttonTextInverted]}>{title}</Text>
     </TouchableOpacity>
   );
 };

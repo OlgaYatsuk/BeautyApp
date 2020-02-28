@@ -11,7 +11,7 @@ class TextField extends Component {
     const {
       style,
       placeholder,
-      onChange,
+      onChangeText,
       onFocus,
       onBlur,
       label,
@@ -28,8 +28,9 @@ class TextField extends Component {
         )}
         <TextInput
           ref={ref}
-          onChangeText={onChange}
+          onChangeText={onChangeText}
           value={value}
+          multiline
           placeholder={placeholder}
           onFocus={onFocus}
           onBlur={onBlur}
